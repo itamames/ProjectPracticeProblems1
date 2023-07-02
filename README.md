@@ -4,7 +4,7 @@ Some comprehensive problems to warm up for the project.
 
 Use GitHub and clone this link:
 
-https://itamames.github.io/ProjectPracticeProblems1/
+https://github.com/itamames/ProjectPracticeProblems1
 
 Then solve these projects.
 
